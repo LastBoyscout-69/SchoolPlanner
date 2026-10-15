@@ -4,7 +4,7 @@
 
 ## 📥 Скачать
 
-Последняя версия: **[v2.0.0](https://github.com/LastBoyscout-69/SchoolPlanner/releases/latest)**
+Последняя версия: **[v2.1.0](https://github.com/LastBoyscout-69/SchoolPlanner/releases/latest)**
 
 ## ✨ Возможности
 
@@ -16,6 +16,7 @@
 - 🎨 Цветные ячейки по предметам
 - 🔑 Демо-версия (до 5 классов) + активация
 - 💾 Сохранение данных в JSON
+- 📊 Экспорт расписания в Excel
 
 ## 🖥️ Системные требования
 
